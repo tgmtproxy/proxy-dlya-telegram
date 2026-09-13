@@ -4,4 +4,4 @@
 
 Сайт: https://tgmtproxy.github.io/proxy-dlya-telegram/
 
-Полный каталог MTProxy: https://tgmtproxy.github.io/mtproxy/proxy.html
+Полный каталог MTProxy: https://tgmtproxy.github.io/mtproxy/
